@@ -1,0 +1,6 @@
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/TaskManager.dir
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/TestUtils.dir
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/TestTask.dir
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/TestTaskManager.dir
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/edit_cache.dir
+/Users/shreyaskrishnan/TaskManager/build/CMakeFiles/rebuild_cache.dir
